@@ -1,1 +1,2 @@
-# Just_Stuffs_I_Guess
+# Jekyll-theme-minimal
+Just_Stuffs_I_Guess
